@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/FarmContract.sol": "SafeMath"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/FarmContract.sol": {
+			"keccak256": "0xcf66b5b2c9562d08190cd9e9d0d96af423b98b8eef703daf9af837694d1673b8",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://9f1c0ba009ef5c362b7123abb6c5b3310007993d43ba84b7fd29a7616d644d7a",
+				"dweb:/ipfs/QmXC69U1fQ7mQQjrRbPuAyxCB2nxCjhNzADFRnqPUBLivK"
+			]
+		}
+	},
+	"version": 1
+}

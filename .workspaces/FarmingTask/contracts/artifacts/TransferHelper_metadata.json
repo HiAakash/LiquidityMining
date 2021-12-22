@@ -1,0 +1,40 @@
+{
+	"compiler": {
+		"version": "0.6.6+commit.6c089d02"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/RouterContract.sol": "TransferHelper"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/RouterContract.sol": {
+			"keccak256": "0xae28a75173e6edb0d79ae0be71faccc914e4749f81df86019958b2a539acf7f6",
+			"urls": [
+				"bzz-raw://7b693665dae7e5ca4ce7c0049ac924a81101f5d556d9c6878b226d9d43c14e6c",
+				"dweb:/ipfs/QmWG38dLP8p7m2dmzmWfS7MV9DpovUtXdBA5T7kxStXn1w"
+			]
+		}
+	},
+	"version": 1
+}
